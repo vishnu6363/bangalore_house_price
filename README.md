@@ -43,5 +43,5 @@ To run this project, you will need to add the following environment variables to
 
 ## Screenshots
 
-![App Screenshot](https://i.postimg.cc/xTCVf0Yj/Screenshot-52.pnghttps://ibb.co/kDHLnXt)
+[![MasterHead]([https://mir-s3-cdn-cf.behance.net/project_modules/fs/67607955080161.597768d22e415.gif](https://i.postimg.cc/xTCVf0Yj/Screenshot-52.png))]
 
