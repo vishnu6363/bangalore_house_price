@@ -22,7 +22,7 @@ And Deployed in heroku.
 
 ## Running Application
 
-To run tests, run the following command
+To run and test the deployment 
 
 
 [![application](https://img.shields.io/badge/Click_here_To_run_the_application-000?style=for-the-badge&logo=ko-&logoColor=white)](https://modifyed.herokuapp.com/)
